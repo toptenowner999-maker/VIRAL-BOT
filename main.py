@@ -107,7 +107,7 @@ def buy(call):
 💰 Price: ₹49  
 
 ━━━━━━━━━━━━━━━  
-🏦 UPI ID: <code>idk850786@oksbi</code>  
+🏦 UPI ID: <code>lakshkar0786@fam</code>  
 ━━━━━━━━━━━━━━━  
 
 💡 📲 𝐒𝐜𝐚𝐧 𝐭𝐡𝐞 𝐐𝐑 𝐚𝐧𝐝 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐩𝐚𝐲𝐦𝐞𝐧𝐭
@@ -120,7 +120,7 @@ def buy(call):
 
     bot.send_photo(
         chat_id=call.from_user.id,
-        photo="https://kommodo.ai/i/S8fDlWtFk5vADJOMYLjx",
+        photo="https://kommodo.ai/i/CuehIzp2uCq8ju8sykZr",
         caption=text,
         reply_markup=markup
     )
